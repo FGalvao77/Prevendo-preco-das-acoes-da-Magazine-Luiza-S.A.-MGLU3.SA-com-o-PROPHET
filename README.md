@@ -3,7 +3,7 @@
 
 <center><img src='https://upload.wikimedia.org/wikipedia/commons/1/1b/Magalu_-_novo_logo.png' width='500'>
   
-- Website oficial	www.magazineluiza.com.br
+- Website oficial:	www.magazineluiza.com.br
   
 O `Magazine Luiza` ([B3](https://pt.wikipedia.org/wiki/B3_(bolsa_de_valores): [MGLU3](http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/empresas-listadas.htm?codigo=22470)) ou **Magalu**, é uma plataforma digital de varejo brasileira multicanal. Fundada em 1957 na cidade de [Franca](https://pt.wikipedia.org/wiki/Franca) pelo casal Luiza Trajano Donato e seu esposo Pelegrino José Donato.
 
